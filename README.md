@@ -58,7 +58,8 @@ Before you begin, ensure you have met the following requirements:
 
 2. In a new terminal, start the frontend development server:
    ```
-   cd frontend
+   cd frontend/blog-generator
+   npm install react-scripts
    npm start
    ```
    The React app should open in your default browser at `http://localhost:3000`.
