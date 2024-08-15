@@ -23,7 +23,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/ai-blog-generator.git
+   https://github.com/dc5212/AI-Blog-Generator.git
    cd ai-blog-generator
    ```
 
